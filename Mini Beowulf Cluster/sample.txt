@@ -1,0 +1,4 @@
+Input:100000
+Client 0:3568
+Client 1:3076
+Client 2:2947

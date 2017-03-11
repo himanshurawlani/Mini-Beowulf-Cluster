@@ -1,6 +1,6 @@
-# Finding-primes-using-Socket-programming
+# MINI PROJECT-BEOWULF CLUSTER
 
-## MINI PROJECT-BEOWULF CLUSTER
+## Finding-primes-using-Socket-programming
 
 ### AIM: 
 To implement Beowulf cluster using java socket programming by calculating number of primes in the range 0 - N(input), using client server architecture.
